@@ -10,5 +10,5 @@ Tela de Login
 Sistema Responsivo, pode ser Utilizado com qualquer tipo de dispositivo que tenha acesso a internet. com login e senha.
 Assim podendo inserir controle de acesso.
 
-Desenvolvido com bootstrap, HTML5 e PHP
+Desenvolvido com bootstrap, HTML5, PHP e JAVASCRIPT
 
