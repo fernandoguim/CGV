@@ -59,7 +59,7 @@
           <br>
           <button type="submit" class="btn block full-width m-b"  style="background-color: #0B3D86; color: #FFF;">Entrar</button>
           <?php 				
-			 	require 'bdLogin/login.class.php'; 				
+			 	require 'login.class.php'; 				
 				$l = new Logar();
 				if (isset($_POST['usuario']) && !empty($_POST['usuario'])) {
 				$usuario = $_POST['usuario'];
