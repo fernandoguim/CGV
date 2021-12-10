@@ -15,5 +15,5 @@ Dashboard
 Sistema Responsivo, pode ser Utilizado com qualquer tipo de dispositivo que tenha acesso a internet. com login e senha.
 Assim podendo inserir controle de acesso.
 
-Desenvolvido com bootstrap, HTML5, PHP, CSS, JAVASCRIPT e MUITO AMOR EM DESENVOLVIMENTO
+Desenvolvido com bootstrap, HTML5, PHP, CSS, JAVASCRIPT e muito amor por desenvolvimento ❤❤
 
