@@ -18,7 +18,8 @@ Assim podendo inserir controle de acesso.
 ```
 Mapa com geolocalização
 ```
-![interface](https://github.com/fernandoguim/CGV/blob/main/MAPA.PNG)
+![interface](https://github.com/fernandoguim/CGV/blob/main/mapa.PNG)
+ 
 
 Desenvolvido com bootstrap, HTML5, PHP, CSS, JAVASCRIPT e muito amor por desenvolvimento ❤❤
 
